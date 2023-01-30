@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    height: 60px;
+    background-color: indianred;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.barra{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.barra button{
+    width: 100px;
+    height: 30px;
+    background-color:honeydew
+}
